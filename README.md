@@ -2,7 +2,7 @@
 
 ##### NOW
 
-I'm a Neuroimaging Analyst at the at the Vanderbilt Memory & Alzheimer's Center.
+I'm a Neuroimaging Analyst at the Vanderbilt Memory & Alzheimer's Center.
 
 🔭 I’m currently investigating vascular correlates of aging using various MRI techniques such as:
 
