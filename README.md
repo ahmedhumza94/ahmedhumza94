@@ -15,7 +15,7 @@ Programming languages I use for this work include: `.r`, `.python`, `.matlab`, `
 
 ##### BIO
 
-I am a Biomedical Engineer who strongly believes that mathematical modeling of physiological systems can guide the development of personalized medicine. My expertise involves the acquisition and processing of time-series and spatial physiological signals. In addition, I have experience with common classification, clustering, and regression machine learning models. For over six years I have used statistical and analytical models to tackle poorly understood medical issues.
+I am a Biomedical Engineer who strongly believes that mathematical modeling of physiological systems can guide the development of personalized medicine. My expertise involves the acquisition and processing of time-series and spatial physiological signals. In addition, I have experience with common classification, clustering, and regression machine learning models. For over nine years I have used statistical and analytical models to tackle poorly understood medical issues.
 <!--
 **ahmedhumza94/ahmedhumza94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
