@@ -2,16 +2,20 @@
 
 ##### NOW
 
-I'm a Neuroimaging Analyst at the Vanderbilt Memory & Alzheimer's Center.
+I'm an indepedent data scientist helping academic research teams with data strategy.
 
-🔭 I’m currently investigating vascular correlates of aging using various MRI techniques such as:
+##### RECENTLY
+
+I served as a Neuroimaging Analyst at the Vanderbilt Memory & Alzheimer's Center.
+
+🔭 I contributed to investigating the vascular correlates of aging using various MRI techniques such as:
 
 - Arterial Spin Labeling (ASL)
 - Blood Oxygen Level Dependent (BOLD) Imaging
 - Phase Contrast Angiography (PCA)
 - T2-Relaxation-Under-Spin-Tagging (TRUST) Imaging
 
-Programming languages I use for this work include: `.r`, `.python`, `.matlab`, `.bash`
+Programming languages I used for this work included: `.r`, `.python`, `.matlab`, `.bash`
 
 ##### BIO
 
