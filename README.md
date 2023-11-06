@@ -2,7 +2,7 @@
 
 ##### NOW
 
-I'm an indepedent data scientist helping academic research teams with data strategy.
+I'm an indepedent software developer helping teams build digital products and services.
 
 ##### RECENTLY
 
