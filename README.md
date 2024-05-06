@@ -2,7 +2,7 @@
 
 ##### NOW
 
-I'm an indepedent software developer helping teams build digital products and services.
+I'm a Senior Data Analyst at the Baylor College of Medicine
 
 ##### RECENTLY
 
