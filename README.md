@@ -2,35 +2,18 @@
 
 ##### NOW
 
-I'm a Senior Data Analyst at the Baylor College of Medicine
-
-##### RECENTLY
-
-I served as a Neuroimaging Analyst at the Vanderbilt Memory & Alzheimer's Center.
-
-🔭 I contributed to investigating the vascular correlates of aging using various MRI techniques such as:
-
-- Arterial Spin Labeling (ASL)
-- Blood Oxygen Level Dependent (BOLD) Imaging
-- Phase Contrast Angiography (PCA)
-- T2-Relaxation-Under-Spin-Tagging (TRUST) Imaging
-
-Programming languages I used for this work included: `.r`, `.python`, `.matlab`, `.bash`
+I'm a part of the Apple developer community. I am currently looking for full-time or freelance iOS developer roles as well as building my own projects. I have a passion for the Swift language, SwiftUI, and utilizing Swift for server-side projects.
 
 ##### BIO
 
-I am a Biomedical Engineer who strongly believes that mathematical modeling of physiological systems can guide the development of personalized medicine. My expertise involves the acquisition and processing of time-series and spatial physiological signals. In addition, I have experience with common classification, clustering, and regression machine learning models. For over eight years I have used statistical and analytical models to tackle poorly understood medical issues.
-<!--
-**ahmedhumza94/ahmedhumza94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I spent most of the last decade focused on using analytical models to tackle poorly understood medical issues. Over my career, I have built automated pipelines to process large medical imaging datasets. I am in the midst of a career transition and hope to give back to the developer community through blogging.
 
-Here are some ideas to get you started:
+I have served in technical roles as part of a research team at organizations including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    University of Illinois Urbana-Champaign
+    Boston University
+    Baylor College of Medicine
+    Vanderbilt Memory & Alzheimer’s Center
+    Social Neuroscience of Pain Disparities Lab at Texas A&M University
+    Michael E. Debakey Institute at Texas A&M University
+
